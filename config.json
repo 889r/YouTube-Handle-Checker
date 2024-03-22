@@ -1,0 +1,5 @@
+{
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
+    "description": "OPTIONAL (ONLY IF YOU WANT TO SEND THE @ TO YOUR TELEGRAM BOT)"
+}
