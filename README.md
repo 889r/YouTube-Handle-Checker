@@ -10,7 +10,7 @@ Welcome to the YouTube Handle Checker project! This tool allows you to check the
 
 ## How to Use
 
-[1] Create A Folder called "modules" and put the logger file there (can't import the folder idk)
+[1] Install Requirements with this command: pip install -r requirements.txt
 
 [2] Edit config.json Put Your Bot Token And Chat Id (only if u want the usernames to be sent to youy bot)
 
