@@ -4,9 +4,13 @@ Welcome to the YouTube Handle Checker project! This tool allows you to check the
 
 ## Features
 
+
 [+] **Check Availability:** Determine whether a specific YouTube handle is available or already taken.
+
 [+] **Easy to Use:** Simple interface for generating YouTube handles and checking.
+
 [+] **Fast:** Quickly fetches information about YouTube handles.
+
 
 ## How to Use
 
